@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block content %}
+<div class = "container" style = "padding: 30px 0px 0px 0px;">
+<section class="section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-header">
+                        <h2 class="fw-bold">Create Post</h2>
+                        <h9 class="fw-bold">*Only facebook and instagram are supported right now!</h9><br>
+                    <h9 class="fw-bold">*Please make sure that you use same email and password for both of your accounts</h9>
+                    </div>
+                    <div class="card-body">
+                        <form action="" method="POST" enctype="multipart/form-data">
+                            {% csrf_token %}
+                            <div class="mb-3">
+                                <label for="" class="form-label">Email</label>
+                                <input type="text" Required name="email" class="form-control">
+                            </div>
+                            <div class="mb-3">
+                                <label for="" class="form-label">Password</label>
+                                <input type="text" Required name="password" class="form-control">
+                            </div>
+                            <div class="mb-3">
+                                <label for="" class="form-label">Caption</label>
+                                <input type="text" Required name="caption" class="form-control">
+                            </div>
+                             <div class="mb-3">
+                                <label for="" class="form-label">Image</label>
+                                <input type="file" Required name="image" class="form-control">
+                            </div>
+                            <button type="submit" class="btn btn-primary">Upload</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</div>
+{% endblock content %}

@@ -1,0 +1,1407 @@
+1626062399145	geckodriver	INFO	Listening on 127.0.0.1:50792
+1626062402257	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileXssTIf"
+*** You are running in headless mode.
+1626062403030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileXssTIf\\search.json.mozlz4", (void 0)))
+1626062404840	Marionette	INFO	Listening on port 50810
+1626062404957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilel9PskK"
+*** You are running in headless mode.
+1626062419934	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilel9PskK\\search.json.mozlz4", (void 0)))
+1626062421624	Marionette	INFO	Listening on port 50882
+1626062422122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+le" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileEtdfxB"
+*** You are running in headless mode.
+1626062456965	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileEtdfxB\\search.json.mozlz4", (void 0)))
+1626062459463	Marionette	INFO	Listening on port 50956
+1626062459789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+le" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilefb4GT5"
+*** You are running in headless mode.
+1626062873712	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilefb4GT5\\search.json.mozlz4", (void 0)))
+1626062875491	Marionette	INFO	Listening on port 51340
+1626062875816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileuoICO1"
+*** You are running in headless mode.
+1626062913084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileuoICO1\\search.json.mozlz4", (void 0)))
+1626062914808	Marionette	INFO	Listening on port 51424
+1626062915255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilePGikgt"
+*** You are running in headless mode.
+1626062976274	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilePGikgt\\search.json.mozlz4", (void 0)))
+1626062978212	Marionette	INFO	Listening on port 51520
+1626062978549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1626067292425	geckodriver	INFO	Listening on 127.0.0.1:54118
+1626067295464	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileKdsIjr"
+*** You are running in headless mode.
+1626067296162	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileKdsIjr\\search.json.mozlz4", (void 0)))
+1626067297796	Marionette	INFO	Listening on port 54126
+1626067298157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileFcafVv"
+*** You are running in headless mode.
+1626067313070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileFcafVv\\search.json.mozlz4", (void 0)))
+1626067314629	Marionette	INFO	Listening on port 54190
+1626067314688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile1NPdAw"
+*** You are running in headless mode.
+1626067639360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile1NPdAw\\search.json.mozlz4", (void 0)))
+1626067642366	Marionette	INFO	Listening on port 54370
+1626067642564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilewBx9HX"
+*** You are running in headless mode.
+1626067651243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilewBx9HX\\search.json.mozlz4", (void 0)))
+1626067652720	Marionette	INFO	Listening on port 54444
+1626067652953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+ headless mode.
+1626067662992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofiletv3kqq\\search.json.mozlz4", (void 0)))
+1626067664479	Marionette	INFO	Listening on port 54511
+1626067664664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+le" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile2Y4UeT"
+*** You are running in headless mode.
+1626067734827	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile2Y4UeT\\search.json.mozlz4", (void 0)))
+1626067736732	Marionette	INFO	Listening on port 54603
+1626067737082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+le" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilepxfk5j"
+*** You are running in headless mode.
+1626068064657	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilepxfk5j\\search.json.mozlz4", (void 0)))
+1626068066061	Marionette	INFO	Listening on port 54765
+1626068066268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626068594708	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilelf8NhK"
+*** You are running in headless mode.
+1626068092700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilelf8NhK\\search.json.mozlz4", (void 0)))
+1626068094240	Marionette	INFO	Listening on port 54839
+1626068094365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626068622756	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+Exiting due to channel error.
+Exiting due to channel error.
+" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilechMIlk"
+*** You are running in headless mode.
+1626068116707	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilechMIlk\\search.json.mozlz4", (void 0)))
+1626068118181	Marionette	INFO	Listening on port 54908
+1626068118363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626068646750	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+
+*** You are running in headless mode.
+1626068260595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilenaFIfY\\search.json.mozlz4", (void 0)))
+1626068262365	Marionette	INFO	Listening on port 55019
+1626068262835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626068289368	geckodriver	INFO	Listening on 127.0.0.1:55082
+1626068292386	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilebspyct"
+*** You are running in headless mode.
+1626068292782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilebspyct\\search.json.mozlz4", (void 0)))
+1626068294360	Marionette	INFO	Listening on port 55091
+1626068294455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626068310265	geckodriver	INFO	Listening on 127.0.0.1:55154
+1626068313284	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileETziM1"
+*** You are running in headless mode.
+1626068313689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileETziM1\\search.json.mozlz4", (void 0)))
+1626068315229	Marionette	INFO	Listening on port 55164
+1626068315347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+Exiting due to channel error.
+26068331522	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilevcDvds"
+*** You are running in headless mode.
+1626068331993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilevcDvds\\search.json.mozlz4", (void 0)))
+1626068333596	Marionette	INFO	Listening on port 55237
+1626068333684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+refox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileOuVAoE"
+*** You are running in headless mode.
+1626068416066	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileOuVAoE\\search.json.mozlz4", (void 0)))
+1626068418422	Marionette	INFO	Listening on port 55326
+1626068418760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+Listening on 127.0.0.1:55446
+1626068499794	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileKZvAh6"
+*** You are running in headless mode.
+1626068500307	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileKZvAh6\\search.json.mozlz4", (void 0)))
+1626068502058	Marionette	INFO	Listening on port 55457
+1626068502478	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilecGp4sN"
+*** You are running in headless mode.
+1626068545107	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilecGp4sN\\search.json.mozlz4", (void 0)))
+1626068547237	Marionette	INFO	Listening on port 55559
+1626068547385	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileblgwS9"
+*** You are running in headless mode.
+1626068593589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileblgwS9\\search.json.mozlz4", (void 0)))
+1626068596022	Marionette	INFO	Listening on port 55688
+1626068596228	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1626068930903	geckodriver	INFO	Listening on 127.0.0.1:52597
+1626068933936	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilee69GiD"
+*** You are running in headless mode.
+1626068934589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilee69GiD\\search.json.mozlz4", (void 0)))
+1626068936710	Marionette	INFO	Listening on port 52607
+1626068937144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilepvsVxj"
+*** You are running in headless mode.
+1626068954129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilepvsVxj\\search.json.mozlz4", (void 0)))
+1626068956780	Marionette	INFO	Listening on port 52679
+1626068957287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileGgiGX7"
+*** You are running in headless mode.
+1626068977140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileGgiGX7\\search.json.mozlz4", (void 0)))
+1626068978957	Marionette	INFO	Listening on port 52749
+1626068979373	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+5653	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile8XCBii\\search.json.mozlz4", (void 0)))
+1626069027660	Marionette	INFO	Listening on port 52947
+1626069027802	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileIBTXtH"
+*** You are running in headless mode.
+1626069054266	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileIBTXtH\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1626069056299	Marionette	INFO	Listening on port 53021
+1626069056426	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileSn96nh"
+*** You are running in headless mode.
+1626069060340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileSn96nh\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1626069062288	Marionette	INFO	Listening on port 53042
+1626069062490	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilemOTOzs"
+*** You are running in headless mode.
+1626069179151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilemOTOzs\\search.json.mozlz4", (void 0)))
+1626069180553	Marionette	INFO	Listening on port 62757
+1626069180855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+ner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilekTOcPQ"
+*** You are running in headless mode.
+1626071359300	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilekTOcPQ\\search.json.mozlz4", (void 0)))
+1626071360803	Marionette	INFO	Listening on port 51510
+1626071360917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+le" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileeIOr8R"
+*** You are running in headless mode.
+1626071439564	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileeIOr8R\\search.json.mozlz4", (void 0)))
+1626071440972	Marionette	INFO	Listening on port 51597
+1626071441119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileAjMs81"
+*** You are running in headless mode.
+1626071632125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileAjMs81\\search.json.mozlz4", (void 0)))
+1626071633657	Marionette	INFO	Listening on port 51788
+1626071633808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile86FBNW"
+*** You are running in headless mode.
+1626071678024	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile86FBNW\\search.json.mozlz4", (void 0)))
+1626071679462	Marionette	INFO	Listening on port 51864
+1626071679667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileaJ4CNe"
+*** You are running in headless mode.
+1626071732766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileaJ4CNe\\search.json.mozlz4", (void 0)))
+1626071734283	Marionette	INFO	Listening on port 51935
+1626071734422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofiletXfNYF"
+*** You are running in headless mode.
+1626071854637	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofiletXfNYF\\search.json.mozlz4", (void 0)))
+1626071855985	Marionette	INFO	Listening on port 52034
+1626071856322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ta\\Local\\Temp\\rust_mozprofileOJJ6C1"
+*** You are running in headless mode.
+1626071893202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileOJJ6C1\\search.json.mozlz4", (void 0)))
+1626071894700	Marionette	INFO	Listening on port 52105
+1626071894885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileVhibon"
+*** You are running in headless mode.
+1626071983574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileVhibon\\search.json.mozlz4", (void 0)))
+1626071984979	Marionette	INFO	Listening on port 52747
+1626071985254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileSVcePh"
+*** You are running in headless mode.
+1626072102366	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileSVcePh\\search.json.mozlz4", (void 0)))
+1626072103993	Marionette	INFO	Listening on port 52857
+1626072104057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileXA86dj"
+*** You are running in headless mode.
+1626072134206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileXA86dj\\search.json.mozlz4", (void 0)))
+1626072135611	Marionette	INFO	Listening on port 52930
+1626072135806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile3ZILCM"
+*** You are running in headless mode.
+1626072151666	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile3ZILCM\\search.json.mozlz4", (void 0)))
+1626072153894	Marionette	INFO	Listening on port 53017
+1626072154393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilet9NJB1"
+*** You are running in headless mode.
+1626072197409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilet9NJB1\\search.json.mozlz4", (void 0)))
+1626072199011	Marionette	INFO	Listening on port 53115
+1626072199344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile5HU67n"
+*** You are running in headless mode.
+1626072229195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile5HU67n\\search.json.mozlz4", (void 0)))
+1626072230622	Marionette	INFO	Listening on port 53193
+1626072230791	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+le" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilezGcmck"
+*** You are running in headless mode.
+1626072252320	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilezGcmck\\search.json.mozlz4", (void 0)))
+1626072253725	Marionette	INFO	Listening on port 53274
+1626072253997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Listening on 127.0.0.1:53669
+1626073106980	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileWuHbGd"
+*** You are running in headless mode.
+1626073107427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileWuHbGd\\search.json.mozlz4", (void 0)))
+1626073108835	Marionette	INFO	Listening on port 53677
+1626073109036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileiKt1EH"
+*** You are running in headless mode.
+1626073266804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileiKt1EH\\search.json.mozlz4", (void 0)))
+1626073268391	Marionette	INFO	Listening on port 53808
+1626073268441	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileoUFsau"
+*** You are running in headless mode.
+1626073574194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileoUFsau\\search.json.mozlz4", (void 0)))
+1626073575598	Marionette	INFO	Listening on port 53912
+1626073575890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilek10rFN"
+*** You are running in headless mode.
+1626073640467	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilek10rFN\\search.json.mozlz4", (void 0)))
+1626073641929	Marionette	INFO	Listening on port 54002
+1626073642074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileBhZn4w"
+*** You are running in headless mode.
+1626073687025	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileBhZn4w\\search.json.mozlz4", (void 0)))
+1626073688472	Marionette	INFO	Listening on port 54079
+1626073688709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+le" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilerlXPrf"
+*** You are running in headless mode.
+1626073804820	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilerlXPrf\\search.json.mozlz4", (void 0)))
+1626073806818	Marionette	INFO	Listening on port 54173
+1626073807051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+26079787016	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileN7Lrro"
+*** You are running in headless mode.
+1626079787774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileN7Lrro\\search.json.mozlz4", (void 0)))
+1626079789242	Marionette	INFO	Listening on port 55198
+1626079789683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=zOXW9UM1_Nz, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=zOXW9UM1_Nz, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626079874178	Marionette	INFO	Stopped listening on port 55198
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626079953213	geckodriver	INFO	Listening on 127.0.0.1:55311
+1626079956255	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile3S1DQS"
+*** You are running in headless mode.
+1626079956761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile3S1DQS\\search.json.mozlz4", (void 0)))
+1626079958459	Marionette	INFO	Listening on port 55319
+1626079958911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=zOXW9UM1_Nz, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=zOXW9UM1_Nz, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626080046644	Marionette	INFO	Stopped listening on port 55319
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626080176717	geckodriver	INFO	Listening on 127.0.0.1:55492
+1626080179792	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileKggvut"
+*** You are running in headless mode.
+1626080180216	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileKggvut\\search.json.mozlz4", (void 0)))
+1626080181765	Marionette	INFO	Listening on port 55500
+1626080181880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileL2zA0m"
+*** You are running in headless mode.
+1626080215232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileL2zA0m\\search.json.mozlz4", (void 0)))
+1626080216688	Marionette	INFO	Listening on port 55575
+1626080216776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=zOXW9UM1_Nz, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=zOXW9UM1_Nz, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626080284931	Marionette	INFO	Stopped listening on port 55575
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626080309853	geckodriver	INFO	Listening on 127.0.0.1:55748
+1626080312927	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilejs75be"
+*** You are running in headless mode.
+1626080313391	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilejs75be\\search.json.mozlz4", (void 0)))
+1626080314779	Marionette	INFO	Listening on port 55758
+1626080314988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=zOXW9UM1_Nz, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=zOXW9UM1_Nz, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626080373741	Marionette	INFO	Stopped listening on port 55758
+1626081143413	geckodriver	INFO	Listening on 127.0.0.1:56076
+1626081146509	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileqk2T07"
+*** You are running in headless mode.
+1626081146949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileqk2T07\\search.json.mozlz4", (void 0)))
+1626081149133	Marionette	INFO	Listening on port 56089
+1626081149222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+eTixsCY"
+*** You are running in headless mode.
+1626081336013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileTixsCY\\search.json.mozlz4", (void 0)))
+1626081337597	Marionette	INFO	Listening on port 56219
+1626081337665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+le" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileFJ14Ks"
+*** You are running in headless mode.
+1626081365778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileFJ14Ks\\search.json.mozlz4", (void 0)))
+1626081367490	Marionette	INFO	Listening on port 56286
+1626081368015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+le" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilesoTDFD"
+*** You are running in headless mode.
+1626081394028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilesoTDFD\\search.json.mozlz4", (void 0)))
+1626081395814	Marionette	INFO	Listening on port 56377
+1626081396312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+le" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileGrPih6"
+*** You are running in headless mode.
+1626081451950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileGrPih6\\search.json.mozlz4", (void 0)))
+1626081453690	Marionette	INFO	Listening on port 56466
+1626081453940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+ocal\\Temp\\rust_mozprofileOR1JMn"
+*** You are running in headless mode.
+1626081507076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileOR1JMn\\search.json.mozlz4", (void 0)))
+1626081508659	Marionette	INFO	Listening on port 56549
+1626081508727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=zOXW9UM1_Nz, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=zOXW9UM1_Nz, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626081568640	Marionette	INFO	Stopped listening on port 56549
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626081915950	geckodriver	INFO	Listening on 127.0.0.1:56768
+1626081919004	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofiledHyYuC"
+*** You are running in headless mode.
+1626081919500	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofiledHyYuC\\search.json.mozlz4", (void 0)))
+1626081920959	Marionette	INFO	Listening on port 56777
+1626081921090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+le" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileMmNi3b"
+*** You are running in headless mode.
+1626081984299	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileMmNi3b\\search.json.mozlz4", (void 0)))
+1626081985900	Marionette	INFO	Listening on port 56862
+1626081985969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+ner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileZZqzJV"
+*** You are running in headless mode.
+1626082931506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileZZqzJV\\search.json.mozlz4", (void 0)))
+1626082933125	Marionette	INFO	Listening on port 57574
+1626082933626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+ headless mode.
+1626083098785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileEMoY7c\\search.json.mozlz4", (void 0)))
+1626083100337	Marionette	INFO	Listening on port 57710
+1626083100454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+ headless mode.
+1626083278252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilefuUXaB\\search.json.mozlz4", (void 0)))
+1626083279702	Marionette	INFO	Listening on port 57872
+1626083279819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.facebook.com/, line 15: ReferenceError: onloadRegister_DEPRECATED is not defined
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39004F,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+out of memory: 0x0000000000000080 bytes requested
+out of memory: 0x0000000000000080 bytes requested
+1626083310154	geckodriver	INFO	Listening on 127.0.0.1:57919
+1626083313203	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilepiyvY4"
+*** You are running in headless mode.
+1626083313660	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilepiyvY4\\search.json.mozlz4", (void 0)))
+1626083315057	Marionette	INFO	Listening on port 57927
+1626083315281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+out of memory: 0x0000000000002000 bytes requested
+Exiting due to channel error.
+Exiting due to channel error.
+1626083583553	geckodriver	INFO	Listening on 127.0.0.1:58300
+1626083586611	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileXmBuk5"
+*** You are running in headless mode.
+1626083587202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileXmBuk5\\search.json.mozlz4", (void 0)))
+1626083588678	Marionette	INFO	Listening on port 58308
+1626083588796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626084734321	geckodriver	INFO	Listening on 127.0.0.1:58633
+1626084737362	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilevLZgC4"
+*** You are running in headless mode.
+1626084738446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilevLZgC4\\search.json.mozlz4", (void 0)))
+1626084740682	Marionette	INFO	Listening on port 58641
+1626084741070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileQcJGaw"
+*** You are running in headless mode.
+1626084996080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileQcJGaw\\search.json.mozlz4", (void 0)))
+1626084997568	Marionette	INFO	Listening on port 58892
+1626084997788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile7M2pIi"
+*** You are running in headless mode.
+1626085450803	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile7M2pIi\\search.json.mozlz4", (void 0)))
+1626085452290	Marionette	INFO	Listening on port 59243
+1626085452457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile2KFizC"
+*** You are running in headless mode.
+1626085558422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile2KFizC\\search.json.mozlz4", (void 0)))
+1626085559901	Marionette	INFO	Listening on port 59331
+1626085560055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilef3BaHx"
+*** You are running in headless mode.
+1626085971202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilef3BaHx\\search.json.mozlz4", (void 0)))
+1626085972554	Marionette	INFO	Listening on port 59591
+1626085972789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1626088479561	geckodriver	INFO	Listening on 127.0.0.1:62398
+1626088482642	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilefruzlO"
+*** You are running in headless mode.
+1626088483456	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilefruzlO\\search.json.mozlz4", (void 0)))
+1626088485857	Marionette	INFO	Listening on port 62406
+1626088486380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626088572989	Marionette	INFO	Stopped listening on port 62406
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626088855687	geckodriver	INFO	Listening on 127.0.0.1:62764
+1626088858722	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilehRygWE"
+*** You are running in headless mode.
+1626088859303	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilehRygWE\\search.json.mozlz4", (void 0)))
+1626088861543	Marionette	INFO	Listening on port 62777
+1626088861917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626088942451	Marionette	INFO	Stopped listening on port 62777
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626091817846	geckodriver	INFO	Listening on 127.0.0.1:63395
+1626091820942	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileLHvpgx"
+*** You are running in headless mode.
+1626091822170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileLHvpgx\\search.json.mozlz4", (void 0)))
+1626091823969	Marionette	INFO	Listening on port 63403
+1626091824106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1626093450024	geckodriver	INFO	Listening on 127.0.0.1:63889
+1626093453109	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileaOhHrI"
+*** You are running in headless mode.
+1626093453493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileaOhHrI\\search.json.mozlz4", (void 0)))
+1626093454923	Marionette	INFO	Listening on port 63899
+1626093455179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile61biK8"
+*** You are running in headless mode.
+1626093507102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile61biK8\\search.json.mozlz4", (void 0)))
+1626093508538	Marionette	INFO	Listening on port 63970
+1626093508764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ta\\Local\\Temp\\rust_mozprofileQBDVap"
+*** You are running in headless mode.
+1626093539595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileQBDVap\\search.json.mozlz4", (void 0)))
+1626093541064	Marionette	INFO	Listening on port 64043
+1626093541292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626094092020	Marionette	INFO	Stopped listening on port 64043
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626094233732	geckodriver	INFO	Listening on 127.0.0.1:64334
+1626094236808	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilezJVf79"
+*** You are running in headless mode.
+1626094237186	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilezJVf79\\search.json.mozlz4", (void 0)))
+1626094238548	Marionette	INFO	Listening on port 64342
+1626094238898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1626094299508	Marionette	INFO	Stopped listening on port 64342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626094684105	geckodriver	INFO	Listening on 127.0.0.1:64608
+1626094687141	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile7WmJxn"
+*** You are running in headless mode.
+1626094687584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile7WmJxn\\search.json.mozlz4", (void 0)))
+1626094688997	Marionette	INFO	Listening on port 64616
+1626094689200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1626095501758	geckodriver	INFO	Listening on 127.0.0.1:64897
+1626095504823	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileWkGXpE"
+*** You are running in headless mode.
+1626095505263	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileWkGXpE\\search.json.mozlz4", (void 0)))
+1626095506711	Marionette	INFO	Listening on port 64908
+1626095506874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilep1kBz8"
+*** You are running in headless mode.
+1626095655549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilep1kBz8\\search.json.mozlz4", (void 0)))
+1626095656945	Marionette	INFO	Listening on port 65018
+1626095657180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1626139521191	geckodriver	INFO	Listening on 127.0.0.1:57899
+1626139524268	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileWx2pEe"
+*** You are running in headless mode.
+1626139524685	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileWx2pEe\\search.json.mozlz4", (void 0)))
+1626139526147	Marionette	INFO	Listening on port 57907
+1626139526330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/yd/l/pa_IN/kcHqTtwfUEG.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1626146976172	geckodriver	INFO	Listening on 127.0.0.1:56591
+1626146979270	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileOePPoT"
+*** You are running in headless mode.
+1626146979800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileOePPoT\\search.json.mozlz4", (void 0)))
+1626146981307	Marionette	INFO	Listening on port 56602
+1626146981347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/y7/l/pa_IN/ShdIkFz9jV1.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/y7/l/pa_IN/ShdIkFz9jV1.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileUeRTkq"
+*** You are running in headless mode.
+1626147072100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileUeRTkq\\search.json.mozlz4", (void 0)))
+1626147075214	Marionette	INFO	Listening on port 56758
+1626147075755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/y7/l/pa_IN/ShdIkFz9jV1.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/y7/l/pa_IN/ShdIkFz9jV1.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile0h77O0"
+*** You are running in headless mode.
+1626147399106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile0h77O0\\search.json.mozlz4", (void 0)))
+1626147400654	Marionette	INFO	Listening on port 57060
+1626147400738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/y7/l/pa_IN/ShdIkFz9jV1.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/y7/l/pa_IN/ShdIkFz9jV1.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+oreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofiledOcDoe"
+*** You are running in headless mode.
+1626147828788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofiledOcDoe\\search.json.mozlz4", (void 0)))
+1626147830790	Marionette	INFO	Listening on port 57467
+1626147830983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/y7/l/pa_IN/ShdIkFz9jV1.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3it3V4/y7/l/pa_IN/ShdIkFz9jV1.js?_nc_x=Ij3Wp8lg5Kz, line 23: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iI-U4/yp/l/en_GB/V2Wnuplv-nK.js?_nc_x=VUaXusjbMwp, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileE0OIRA"
+1626148173087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofileE0OIRA\\search.json.mozlz4", (void 0)))
+1626148176488	Marionette	INFO	Listening on port 57766
+1626148176661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626148313057	Marionette	INFO	Stopped listening on port 57766
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilejSk0R1"
+1626148263542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilejSk0R1\\search.json.mozlz4", (void 0)))
+1626148266344	Marionette	INFO	Listening on port 57865
+1626148266725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iCUC4/yF/l/en_GB/8zAxyuiK2aP62kSVXpUO-vJN_tybqmfpSo2OOiJErb3Ab6rLcLT6RjXeO2wjGNf9gLipdEHJifHoxaij22A2Yl0nu_y_Q20-Otmp98MZTKO-yP96kBJbAh80hb_2zFMs902oR43NY7jtUjatwo5HzrVL3Lk92VB5Q6EvN3nKec59UoKktuz2CzSPvlWlFXAZDPOGXt.js?_nc_x=VUaXusjbMwp, line 298: uncaught exception: out of memory
+out of memory: 0x0000000000001000 bytes requested
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0026,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x360015,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receiv[GFe IPC close with reason=AbnormalShutdown
+X1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1626148324856	Marionette	INFO	Stopped listening on port 57865
+1626148398063	geckodriver	INFO	Listening on 127.0.0.1:58034
+1626148401101	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilezhQ829"
+1626148401614	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofilezhQ829\\search.json.mozlz4", (void 0)))
+1626148404648	Marionette	INFO	Listening on port 58042
+1626148404796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626148449550	Marionette	INFO	Stopped listening on port 58042
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1626148487975	geckodriver	INFO	Listening on 127.0.0.1:58159
+1626148491000	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile1TB8Dy"
+1626148491484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hlo\\AppData\\Local\\Temp\\rust_mozprofile1TB8Dy\\search.json.mozlz4", (void 0)))
+1626148494331	Marionette	INFO	Listening on port 58167
+1626148494702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626148536137	Marionette	INFO	Stopped listening on port 58167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

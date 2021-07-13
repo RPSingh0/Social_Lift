@@ -1,0 +1,60 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block content %}
+    <style>
+        .wh {
+            color: white;
+        }
+    </style>
+    
+    <div class="container col-xxl-8 px-4 py-5">
+        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+            <div class="col-10 col-sm-8 col-lg-6">
+                <img src="{% static 'm_post.jpg' %}" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes"
+                    loading="lazy">
+            </div>
+            <div class="col-lg-6">
+                <h1 class="display-5 fw-bold lh-1 mb-3 wh">Multi-Posting</h1>
+                <p class="lead wh">Express your idea and post in on all of you social
+                    media accounts in one click</p>
+                <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                    <div class="btn-group">
+                        <a class="btn btn-primary" href="multipost" role="button">Try it Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr style="border: 10px solid white; opacity: 1.0;">
+    <div class="container col-xxl-8 px-4 py-5">
+        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+
+            <div class="col-lg-6">
+                <h1 class="display-5 fw-bold lh-1 mb-3 wh">Wishing Express</h1>
+                <p class="lead wh">Send emails and messages to your loved ones on their birthdays.</p>
+                <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                    <div class="btn-group">
+                        <a class="btn btn-primary" href="birthday" role="button">Wish them now</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-10 col-sm-8 col-lg-6">
+                <img src="{% static 'wish_p.jpg' %}" width="100%" class="d-block mx-lg-auto img-fluid"
+                    alt="Bootstrap Themes" loading="lazy">
+            </div>
+        </div>
+    </div>
+    <!-- Footer -->
+<footer class="bg-light text-center text-lg-start">
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © Made with ❤ by 
+    <a class="text-dark" href="https://www.linkedin.com/in/rupinder-pal-singh-738240193/">Rupinder Pal Singh</a>
+  </div>
+  <!-- Copyright -->
+</footer>
+</main>
+
+{% endblock content %}
