@@ -14,5 +14,6 @@ Modules used:
 Please run server with following aruements:
         1. --nothreading
         2. --noreload
+Server starts with: localhost:8000/index
         
 Virtual environment name : Django_project
