@@ -17,8 +17,8 @@ if __name__ != "__main__":
         password = kwargs.get("Password", None)
 
         if email == None and password == None:
-            email = "anonymous.it.iter@gmail.com"
-            password = "cxxfzbjjollbcjiz"
+            email = "your_email"
+            password = "your_password"
         msg["From"] = email
 
         # print(email)
