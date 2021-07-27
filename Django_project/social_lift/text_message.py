@@ -13,7 +13,7 @@ if __name__ != "__main__":
         url = "https://www.fast2sms.com/dev/bulk"
         payload = f"sender_id=FSTSMS&message={message}&language=english&route=p&numbers={number}"
         headers = {
-            'authorization': "wc1j7PSEbB5HUCFrMuakDdWyg9hYT8A3VvOIxm6KNQt0Xf2LJzg3V8clhv0nZ7Li1qaEGIFQKxRMHsOy",
+            'authorization': "your auth code",
             'Content-Type': "application/x-www-form-urlencoded",
             'Cache-Control': "no-cache",
         }
