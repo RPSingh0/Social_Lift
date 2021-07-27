@@ -17,3 +17,6 @@ Please run server with following aruements:
 Server starts with: localhost:8000/index
         
 Virtual environment name : Django_project
+
+Please Add auth_code in test_message.py to access Fast2sms api
+You will need a default email and password for email.py
